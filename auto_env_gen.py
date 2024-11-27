@@ -10,17 +10,18 @@ from telethon.tl.functions.contacts import UnblockRequest
 
 DATA = {}
 ENV = """
-API_ID={25846527}
-API_HASH={bed7ee3ce3946a387fcc69902edde129}
-BOT_TOKEN={6716485577:AAFM4SSq-OtBsA4TqGUjFRdmPMG7JlTFwn4}
-SESSION={1BVtsOI0Bu5QPxzv7Cx-DpO_83zoL6X7rd5yxHcBTTdDG5n93_fQXrq1bkixWkGIAduNGrCxFd6SV5-jth6FFonPLdmTqLu-tYlTHV9UHZT4bcPq7kZGAa1vBy_3HR0Of7uibUx6mkLoi5mhQmA5vZXAvddJpdOgiXjqXNHetCnYduQvywGi0G5bCzcMc70X2RReUNLLuDlWhg7zL7aFAHf7813dXW3-K7gPqGsH-WguMEsI57is1BVxcCMgi2_Hy4425CARmTwOCsWYwuMuvE8rrxQit-eRvBcidvyfc7v20Pr07jalhiKRbTFGtaqZo1YRjL7Mk0CVv6RmTk6jgZ0hodIWe0ew=}
-MAIN_CHANNEL={https://t.me/Ongoing_nation}
-LOG_CHANNEL={https://t.me/aniime_nation}
-CLOUD_CHANNEL={https://t.me/+g2eFQWEDR-45NzM1}
-BACKUP_CHANNEL={https://t.me/ongoing_nation1}
-FIREBASE_URL={https://autoanime1-68d01-default-rtdb.firebaseio.com/}
-FIREBASE_SERVICE_ACCOUNT_FILE={https://gist.githubusercontent.com/Jashwanth778/1ed3457501b32facf8b0ab990156af13/raw/e2735c5eea8b49eafe341f2d7aea99ff066908fe/Service.json}
-OWNER={5914004077}
+API_ID={}
+API_HASH={}
+BOT_TOKEN={}
+SESSION={}
+MAIN_CHANNEL={}
+LOG_CHANNEL={}
+CLOUD_CHANNEL={}
+BACKUP_CHANNEL={}
+MONGO_SRV={}
+OWNER={}
+FORCESUB_CHANNEL={}
+FORCESUB_CHANNEL_LINK={}
 """
 
 
